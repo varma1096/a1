@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\CoreMathImgProc\bin\CoreMathImgProc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fba203d39d1e76f8d151366709c8b1869abf6b70">
+        <dex dex="D:\SmartMath\smartMath\build\intermediates\transforms\dex\debug\folders\1000\2\CoreMathImgProc_aeafdd99d66f4152dc44f198692f58db1d2ee99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SmartMath\smartMath\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\SmartMath\smartMath\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6f68a153dfa64ce29a1cb8603a3c4bf089ac2bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SmartMath\smartMath\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="012ebca89e0766d392e658ba194b7d1eb170260a">
+        <dex dex="D:\SmartMath\smartMath\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a1e1defa78a2022316afffd9e61366019074607b\classes.dex" />
+    </item>
+
+</items>

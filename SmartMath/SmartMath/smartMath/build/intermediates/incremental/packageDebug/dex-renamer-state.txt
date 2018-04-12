@@ -1,0 +1,7 @@
+#Sat Mar 17 15:52:00 IST 2018
+base.0=D\:\\SmartMath\\smartMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e1defa78a2022316afffd9e61366019074607b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\SmartMath\\smartMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f68a153dfa64ce29a1cb8603a3c4bf089ac2bba\\classes.dex
+base.1=D\:\\SmartMath\\smartMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f68a153dfa64ce29a1cb8603a3c4bf089ac2bba
+file.0=D\:\\SmartMath\\smartMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e1defa78a2022316afffd9e61366019074607b\\classes.dex

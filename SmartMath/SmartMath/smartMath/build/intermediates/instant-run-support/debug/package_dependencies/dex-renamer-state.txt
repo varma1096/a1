@@ -1,0 +1,4 @@
+#Mon Mar 19 15:13:39 CDT 2018
+base.0=C\:\\Users\\rajiv\\Downloads\\SmartMath\\SmartMath\\smartMath\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
